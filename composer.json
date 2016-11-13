@@ -1,0 +1,16 @@
+{
+    "name": "suncky/oss",
+    "description": "Aliyun oss",
+    "type" : "aliyun-oss",
+    "license": "GPL2.0",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "sunjianyi",
+            "email": "sunjianyi@xsteach.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"suncky\\oss\\": ""}
+    }
+}
